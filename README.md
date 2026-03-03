@@ -30,6 +30,6 @@ Include the component in your HTML file and customize the styles as needed. For 
 
 ## Figma Design
 
-This project is based on a design created in Figma. You can view the design file [here](link-to-figma-file).
+This project is based on a design created in Figma. You can view the design file (https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)).
 
 If you have further questions related to the design, feel free to reach out.
